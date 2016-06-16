@@ -1,8 +1,7 @@
 # Navigating Programatically
 
 ```js
-git clone https://github.com/ramkrishnsaini/react-navigation-demo.git
-cd react-router-tutorial
+git clone https://github.com/ramkrishnsaini/react-navigation-demo.git 
 cd react-navigation-demo/navigating
 npm install
 npm start
