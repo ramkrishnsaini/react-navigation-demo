@@ -3,7 +3,7 @@
 ```js
 git clone https://github.com/ramkrishnsaini/react-navigation-demo.git
 cd react-router-tutorial
-cd navigating
+cd react-navigation-demo/navigating
 npm install
 npm start
 ```
